@@ -1,1 +1,11 @@
-
+{
+    "name": "PandaSwap",
+    "website": "http://pandaex.org",
+    "description": "PandaSwap is a decentralized exchange running on OKEx Chain, with lots of other features that let you earn and win tokens. It's fast, cheap, and anyone can use it. It has below major features",
+    "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex136kf6j0hr2fe8mfc5cvs8r5gpjrd2azuu4dc36",
+    "type": "KIP20",
+    "symbol": "PND",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8eac9d49f71a9393ed38a619038e880c86d5745c"
+}
