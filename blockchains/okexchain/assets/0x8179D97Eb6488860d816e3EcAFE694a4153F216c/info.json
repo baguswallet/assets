@@ -1,1 +1,11 @@
-
+{
+    "name": "CherrySwap",
+    "website": "https://www.cherryswap.net/",
+    "description": "CherrySwap is the automatic market-making protocol based on OKExchain. It adopts mechanism of Automatic Market Maker (AMM) and aims to achieve self-driven liquidity creation with diversified functions such as liquidity mining, IFO, NFT, lottery and DAO, so as to provide participants with the maximum value bonus.",
+    "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex136kf6j0hr2fe8mfc5cvs8r5gpjrd2azuu4dc36",
+    "type": "KIP20",
+    "symbol": "CHE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c"
+}
