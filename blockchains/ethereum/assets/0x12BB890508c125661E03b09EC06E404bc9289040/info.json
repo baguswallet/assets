@@ -1,1 +1,29 @@
-info.json
+{
+    "name": "Radio Caca",
+    "website": "https://www.radiocaca.com/",
+    "description": "T.",
+    "explorer": "https://etherscan.io/token/0x12BB890508c125661E03b09EC06E404bc9289040",
+    "type": "ERC20",
+    "symbol": "RACA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x12BB890508c125661E03b09EC06E404bc9289040",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/T"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/"
+        }
+    ]
+}
